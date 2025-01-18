@@ -1,0 +1,1 @@
+command=lambda button=i: click(button)
